@@ -1,0 +1,7 @@
+{
+  "name": "Aura E-Commerce Storefront",
+  "description": "A high-end, modern e-commerce storefront featuring a full visual design system, responsive layouts, and integrated AI product descriptions. Built with React, Tailwind CSS, and Framer Motion.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
